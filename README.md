@@ -203,4 +203,4 @@ Gerbv is the official complete free version with all features and updates includ
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-16 23:06:17 UTC
+**Last updated:** 2026-10-17 01:59:49 UTC
